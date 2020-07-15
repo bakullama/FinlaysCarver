@@ -4,4 +4,8 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += \
+        carver.cpp \
         main.cpp
+
+HEADERS += \
+    carver.h
