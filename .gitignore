@@ -40,5 +40,5 @@ Thumbs.db
 .*.swp
 
 # Test Data
-test/
 testdata/
+testdata/*
